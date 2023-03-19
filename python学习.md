@@ -99,7 +99,7 @@ https://www.youtube.com/watch?v=82dVQa6xBCA&list=PLliocbKHJNwsQ7fbMNwy20qR-SURFm
     for player in mylist:
         if player == "tony":
         print(player)
-半夜2点了今天先学到这里，明天复习后接着学习python。现在接着学习英语
+
 
 
 
